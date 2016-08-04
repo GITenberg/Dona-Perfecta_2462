@@ -1,0 +1,49 @@
+_repo: Dona-Perfecta_2462
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, W. D. (William Dean)
+    - Howells, William D. (William Dean)
+    birthdate: 1837
+    deathdate: &id001 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+  translator:
+    agent_name: Serrano, Mary J. (Mary Jane)
+    alias: Serrano, Mary Jane Christie
+    deathdate: 1923
+    gutenberg_agent_id: '918'
+    url: http://www.gutenberg.org/2009/agents/918
+creator:
+  author:
+    agent_name: Pérez Galdós, Benito
+    aliases:
+    - Galdós, Benito Pérez
+    - Perez Galdos, Benito
+    birthdate: 1843
+    deathdate: *id001
+    gutenberg_agent_id: '3821'
+    url: http://www.gutenberg.org/2009/agents/3821
+    wikipedia: http://en.wikipedia.org/wiki/Benito_Pérez_Galdós
+description: ''
+gutenberg_issued: '2006-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2462'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Liberalism -- Spain -- History -- 19th century -- Fiction'
+- !lcsh 'Social conflict -- Spain -- History -- 19th century -- Fiction'
+- !lcsh 'Religion and politics -- Spain -- History -- 19th century -- Fiction'
+- !lcsh 'Married women -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Spain -- Social life and customs -- 19th century -- Fiction'
+- GITenberg
+title: Dona Perfecta
+url: http://www.gutenberg.org/ebooks/2462
