@@ -1,5 +1,5 @@
 _repo: Dona-Perfecta_2462
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   author_of_introduction:
     agent_name: Howells, William Dean
@@ -7,7 +7,7 @@ contributor:
     - Howells, W. D. (William Dean)
     - Howells, William D. (William Dean)
     birthdate: 1837
-    deathdate: &id001 1920
+    deathdate: 1920
     gutenberg_agent_id: '97'
     url: http://www.gutenberg.org/2009/agents/97
     wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
@@ -24,7 +24,7 @@ creator:
     - Galdós, Benito Pérez
     - Perez Galdos, Benito
     birthdate: 1843
-    deathdate: *id001
+    deathdate: 1920
     gutenberg_agent_id: '3821'
     url: http://www.gutenberg.org/2009/agents/3821
     wikipedia: http://en.wikipedia.org/wiki/Benito_Pérez_Galdós
